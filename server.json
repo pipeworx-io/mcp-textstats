@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/textstats",
   "title": "Textstats",
   "description": "Text statistics & readability MCP.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/textstats",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-textstats",
